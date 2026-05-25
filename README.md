@@ -4,4 +4,20 @@ Trailing on the back of [Brokensound77](https://gist.github.com/brokensound77/6d
 
 Such tools are heavily used in eCrime operations to ensure initial access, provide persistence and to masquerade as more legitimate administrative activity.
 
-Please feel free to admend and improve with pull requests and feature requests.
+Please feel free to amend and improve with pull requests and feature requests.
+
+## Important Legal Notice
+
+Use of all scripts, source code, binaries, installers, templates, dashboards, reports, integrations, connectors, containers, packages, documentation, and other materials in this repository is subject to [TERMS_OF_USE](./TERMS_OF_USE.md).
+
+These materials may modify systems, install dependencies, connect to third-party services, transmit data, store credentials, create local databases, expose web interfaces, or otherwise impact production or non-production environments.
+
+**Use at your own risk. Review the code. Test before production deployment.**
+
+### Additional Notices
+
+- [DISCLAIMER](./DISCLAIMER.md)
+- [THIRD_PARTY_INTEGRATIONS](./THIRD_PARTY_INTEGRATIONS.md)
+- [SECURITY_NOTICE](./SECURITY_NOTICE.md)
+- [NOTICE](./NOTICE.md)
+- [TERMS_OF_USE](./TERMS_OF_USE.md)
